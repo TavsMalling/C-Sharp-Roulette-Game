@@ -1,0 +1,13 @@
+C:\Users\marst\source\repos\U.2\U.2\bin\Debug\U.2.exe.config
+C:\Users\marst\source\repos\U.2\U.2\bin\Debug\U.2.exe
+C:\Users\marst\source\repos\U.2\U.2\bin\Debug\U.2.pdb
+C:\Users\marst\source\repos\U.2\U.2\obj\Debug\U.2.csprojAssemblyReference.cache
+C:\Users\marst\source\repos\U.2\U.2\obj\Debug\U.2.csproj.CoreCompileInputs.cache
+C:\Users\marst\source\repos\U.2\U.2\obj\Debug\U.2.exe
+C:\Users\marst\source\repos\U.2\U.2\obj\Debug\U.2.pdb
+C:\Users\tamal\Desktop\repos\U.2\U.2\bin\Debug\U.2.exe.config
+C:\Users\tamal\Desktop\repos\U.2\U.2\bin\Debug\U.2.exe
+C:\Users\tamal\Desktop\repos\U.2\U.2\bin\Debug\U.2.pdb
+C:\Users\tamal\Desktop\repos\U.2\U.2\obj\Debug\U.2.csprojAssemblyReference.cache
+C:\Users\tamal\Desktop\repos\U.2\U.2\obj\Debug\U.2.exe
+C:\Users\tamal\Desktop\repos\U.2\U.2\obj\Debug\U.2.pdb
